@@ -16,13 +16,13 @@ chardet==5.2.0
 charset-normalizer==3.4.1
 click==8.1.8
 coloredlogs==15.0.1
-contourpy==1.3.1
+contourpy==1.3.0
 cryptography==44.0.2
 cycler==0.12.1
 dataclasses-json==0.6.7
 Deprecated==1.2.18
 distro==1.9.0
-Django==5.1.6
+Django==4.2.23
 effdet==0.4.1
 emoji==2.14.1
 et_xmlfile==2.0.0
@@ -52,7 +52,7 @@ jiter==0.8.2
 joblib==1.4.2
 jsonpatch==1.33
 jsonpointer==3.0.0
-kiwisolver==1.4.8
+kiwisolver==1.4.7
 langchain==0.3.19
 langchain-community==0.3.18
 langchain-core==0.3.40
@@ -63,8 +63,8 @@ lxml==5.3.1
 Markdown==3.7
 MarkupSafe==3.0.2
 marshmallow==3.26.1
-matplotlib==3.10.1
-milvus==2.3.9
+matplotlib==3.9.4
+milvus==2.3.3
 milvus-lite==2.4.11
 mpmath==1.3.0
 multidict==6.1.0
